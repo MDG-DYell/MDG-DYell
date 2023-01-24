@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Senior Software Engineer at @mdgroup-tech
+
 <!--
 **MDG-DYell/MDG-DYell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

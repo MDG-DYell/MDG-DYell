@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-I am a Senior Software Engineer at @mdgroup-tech
+My name is David or Dave (he/him) and I am a Senior Software Engineer at @mdgroup-tech 
 
-I work with PHP, Typescript and React.
+I work with PHP and Typescript. Along with an array of frameworks! Symfony, Laravel and Nest.js
+
+ - 🐈 My cat is called Zeus
+ - 🚶‍♂️I like to hike
+ - 🍺 IPA drinker
+ - 🎮 Avid gamer
+
 <!--
 **MDG-DYell/MDG-DYell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
